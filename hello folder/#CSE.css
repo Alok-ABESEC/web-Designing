@@ -1,0 +1,22 @@
+.BOX{
+            text-align: center;
+            text-transform: uppercase;
+            width: 10px;
+            padding: 10px;
+            margin: 10px;
+            color: blueviolet;
+            border: 10px;
+
+        }
+        #CSE-13{
+            text-align: center;
+            text-transform: lowercase;
+            width: 10px;
+            padding: 10px;
+            margin: 10px;
+            color: rgb(43, 226, 104);
+            border: 30px; ;
+
+
+        }
+    
